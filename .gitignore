@@ -1,0 +1,6 @@
+# Ignorar la carpeta de configuración de Vagrant
+.vagrant/
+
+# Ignorar archivos de log y temporales
+*.log
+.DS_Store
